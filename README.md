@@ -13,3 +13,4 @@ For example:
 * **con + tab**: `console.log($1)`
 * **req + tab**: `require([$1], function($2){$3})`
 * **def + tab**: `define([$1], function($2){$3})`
+* **cc + tab**: Block comment /** ..
