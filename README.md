@@ -32,7 +32,6 @@ git pull
 
 ## JavaScript
 
-=======
 Command | Result
 ------- | ------
 con + tab | `console.log($1)`
