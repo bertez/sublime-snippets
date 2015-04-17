@@ -1,6 +1,6 @@
 # Install & update
 
-Clone this repo in *Packages/User/Snippets* in your [Sublime Text Data Directory](http://docs.sublimetext.info/en/latest/basic_concepts.html#the-data-directory)
+Clone this repo in *Packages/User/Snippets* on your [Sublime Text Data Directory](http://docs.sublimetext.info/en/latest/basic_concepts.html#the-data-directory)
 
 ## MacOSX:
 
